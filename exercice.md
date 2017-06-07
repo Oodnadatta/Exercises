@@ -10,7 +10,7 @@ Identification par séquençage de Sanger de deux variations chez un patient ave
 5. Expliquez en 50 mots maximum comment s’exprime une maladie génique selon ce mode de transmission. 7
 6. Expliquez en 40 mots maximum comment se transmet une maladie génique selon ce mode de transmission. 7
 
-7. Quelle est la notation protéique de ces variations au format HGVS ? *Mutalyzer* 5
+7. Quelle est la notation protéique de ces variants au format HGVS ? *Mutalyzer* 5
 8. Quelle est la signification des différentes parties de cette notation ? 3
 9. De quel type de variants s'agit-il : faux sens, non-sens, synonyme, variant d’épissage ? 1
 
@@ -19,11 +19,11 @@ Identification par séquençage de Sanger de deux variations chez un patient ave
 11. Visualisez ce variant dans UCSC. Copiez l’URL de cette visualisation dans le fichier de réponse. *Mutalyzer* 7
 12. Le gène est-il sur le brin sens ou anti-sens ? *UCSC* 2
 13. Combien d’exons le transcrit NM_004992.3 comporte-t-il ? *UCSC* 2
-14. Dans quel exon ce variant se trouvent-t-ils ? *UCSC* 2
+14. Dans quel exon ce variant se trouve-t-il ? *UCSC* 2
 
 15. Quelle est la notation génomique de ce variant au format HGVS (en utilisant GRCh37) ? *Mutalyzer* 5
 16. Quelle est la signification des différentes parties de cette notation ? 3
-17. Ces variants sont-ils dans la base de donnée GnomAD ? 5
+17. Ces deux variants sont-ils dans la base de donnée GnomAD ? 5
 17. Si oui, quelle est leur fréquence dans la population générale d'après les données de GnomAD ? 5
 
 ## Exercice 2
