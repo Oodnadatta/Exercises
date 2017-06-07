@@ -66,9 +66,10 @@ Identification par séquençage de Sanger de trois variants chez un patient avec
 
 ## Exercice 3 *FOXG1*
 Identification par séquençage de Sanger de trois variants chez un patient avec un syndrome de Rett :
-* NM_004992.3:c.473C>T
-* NM_004992.3:c.603G>A
-NM_005249
+* NM_005249.4:c.730C>T- (missense)
+* NM_005249.4:c.1200C>A- (stop)
+* NM_005249.4:c.159_161dupCCA (benign)
+* NM_005249.4:c.326C>T (likely benign)
 
 1. Quels sont les trois principaux gènes associés au syndrome de Rett ? 3
 2. Dans quel gène se trouvent ces variants ? 2
