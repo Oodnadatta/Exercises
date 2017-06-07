@@ -10,8 +10,8 @@ Identification par séquençage de Sanger de trois variants chez une patiente av
 
 1. Quels sont les trois principaux gènes associés au syndrome de Rett ? 3
 2. Dans quel gène se trouvent ces variants ? 2
-3. Sur quel chromosome se trouve ce gène ? 2
-4. Quel est le mode de transmission associé au syndrome de Rett lié à ce gène ? 2
+3. Sur quel chromosome se trouve ce gène ? *OMIM* 2
+4. Quel est le mode de transmission associé au syndrome de Rett lié à ce gène ? *OMIM* 2
 5. Expliquez en 50 mots maximum comment s’exprime une maladie génique selon ce mode de transmission. 7
 6. Expliquez en 40 mots maximum comment se transmet une maladie génique selon ce mode de transmission. 7
 
@@ -43,8 +43,8 @@ Identification par séquençage de Sanger de trois variants chez une patiente av
 
 1. Quels sont les trois principaux gènes associés au syndrome de Rett ? 3
 2. Dans quel gène se trouvent ces variants ? 2
-3. Sur quel chromosome se trouve ce gène ? 2
-4. Quel est le mode de transmission associé au syndrome de Rett lié à ce gène ? 2
+3. Sur quel chromosome se trouve ce gène ? *OMIM* 2
+4. Quel est le mode de transmission associé au syndrome de Rett lié à ce gène ? *OMIM* 2
 5. Expliquez en 50 mots maximum comment s’exprime une maladie génique selon ce mode de transmission. 7
 6. Expliquez en 40 mots maximum comment se transmet une maladie génique selon ce mode de transmission. 7
 
@@ -73,8 +73,8 @@ Identification par séquençage de Sanger de trois variants chez une patiente av
 
 1. Quels sont les trois principaux gènes associés au syndrome de Rett ? 3
 2. Dans quel gène se trouvent ces variants ? 2
-3. Sur quel chromosome se trouve ce gène ? 2
-4. Quel est le mode de transmission associé au syndrome de Rett lié à ce gène ? 2
+3. Sur quel chromosome se trouve ce gène ? *OMIM* 2
+4. Quel est le mode de transmission associé au syndrome de Rett lié à ce gène ? *OMIM* 2
 5. Expliquez en 50 mots maximum comment s’exprime une maladie génique selon ce mode de transmission. 7
 6. Expliquez en 40 mots maximum comment se transmet une maladie génique selon ce mode de transmission. 7
 
