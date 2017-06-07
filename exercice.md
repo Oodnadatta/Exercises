@@ -34,8 +34,12 @@ Identification par séquençage de Sanger de trois variants chez un patient avec
 ## Exercice 2 *CDKL5*
 Identification par séquençage de Sanger de trois variants chez un patient avec un syndrome de Rett :
 * NM_003159.2:c.194G>A
-* NM_003159.2:c.215T>A
-* NM_003159.2:c.2343delG
+* NM_003159.2:c.215T>A-
+* NM_003159.2:c.1278A>C
+* NM_003159.2:c.1330C>T
+* NM_003159.2:c.2593C>T-
+* NM_003159.2:c.2995G>A
+
 
 1. Quels sont les trois principaux gènes associés au syndrome de Rett ? 3
 2. Dans quel gène se trouvent ces variants ? 2
