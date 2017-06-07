@@ -86,7 +86,7 @@ Identification par séquençage de Sanger de trois variants chez un patient avec
 
 11. Visualisez ce variant dans UCSC. Copiez l’URL de cette visualisation dans le fichier de réponse. *Mutalyzer* 7
 12. Le gène est-il sur le brin sens ou anti-sens ? *UCSC* 2
-13. Combien d’exons le transcrit NM_005249 comporte-t-il ? *UCSC* 2
+13. Combien d’exons le transcrit NM_005249.4 comporte-t-il ? *UCSC* 2
 14. Dans quel exon ce variant se trouve-t-il ? *UCSC* 2
 
 15. Quelle est la notation génomique de ce variant au format HGVS (en utilisant GRCh37) ? *Mutalyzer* 5
