@@ -1,8 +1,12 @@
 ## Exercice 1 *MECP2*
 Identification par séquençage de Sanger de trois variants chez un patient avec un syndrome de Rett :
-* NM_004992.3:c.473C>T
+* NM_004992.3:c.473C>T-
 * NM_004992.3:c.603G>A
 * NM_004992.3:c.695G>C
+* NM_004992.3:c.502C>T-
+* NM_004992.3:c.763C>T-
+* NM_004992.3:c.984C>A
+* NM_004992.3:c.1335G>A
 
 1. Quels sont les trois principaux gènes associés au syndrome de Rett ? 3
 2. Dans quel gène se trouvent ces variants ? 2
