@@ -19,7 +19,7 @@ Identification par séquençage de Sanger de deux variants chez une patiente ave
 8. Quelle est la signification des différentes parties de cette notation ?
 9. De quel type de variants s'agit-il : faux sens, non-sens, synonyme, variant avec décalage du cadre de lecture, variant d’épissage ?
 
-10. Les deux variants sont présents dans la base de donnée Rettbase. Le(s)quel(s) des deux explique(nt) le syndrome de Rett du patient ? Justifiez. *Recherche par "nucleotide change" dans Rettbase*
+10. Les deux variants sont présents dans la base de donnée Rettbase. Le(s)quel(s) explique(nt) le syndrome de Rett du patient ? Justifiez. *Recherche par "nucleotide change" dans Rettbase*
 
 11. Visualisez ce variant dans UCSC. Copiez l’URL de cette visualisation dans le fichier de réponse. *Mutalyzer Name Checker*
 12. Le gène est-il sur le brin sens ou anti-sens ? *UCSC*
@@ -52,7 +52,7 @@ Identification par séquençage de Sanger de deux variants chez une patiente ave
 8. Quelle est la signification des différentes parties de cette notation ?
 9. De quel type de variants s'agit-il : faux sens, non-sens, synonyme, variant avec décalage du cadre de lecture, variant d’épissage ?
 
-10. Les deux variants sont présents dans la base de donnée Rettbase. Le(s)quel(s) des deux explique(nt) le syndrome de Rett du patient ? Justifiez. *Recherche dans Rettbase*
+10. Les deux variants sont présents dans la base de donnée Rettbase. Le(s)quel(s) explique(nt) le syndrome de Rett du patient ? Justifiez. *Recherche dans Rettbase*
 
 11. Visualisez ce variant dans UCSC. Copiez l’URL de cette visualisation dans le fichier de réponse. *Mutalyzer Name Checker*
 12. Le gène est-il sur le brin sens ou anti-sens ? *UCSC*
@@ -82,7 +82,7 @@ Identification par séquençage de Sanger de deux variants chez une patiente ave
 8. Quelle est la signification des différentes parties de cette notation ?
 9. De quel type de variants s'agit-il : faux sens, non-sens, synonyme, variant avec décalage du cadre de lecture, variant d’épissage ?
 
-10. Les deux variants sont présents dans la base de donnée Rettbase. Le(s)quel(s) des deux explique(nt) le syndrome de Rett du patient ? Justifiez. *Recherche dans Rettbase*
+10. Les deux variants sont présents dans la base de donnée Rettbase. Le(s)quel(s) explique(nt) le syndrome de Rett du patient ? Justifiez. *Recherche dans Rettbase*
 
 11. Visualisez ce variant dans UCSC. Copiez l’URL de cette visualisation dans le fichier de réponse. *Mutalyzer Name Checker*
 12. Le gène est-il sur le brin sens ou anti-sens ? *UCSC*
