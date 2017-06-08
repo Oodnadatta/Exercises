@@ -1,5 +1,5 @@
 ## Exercice 1 *MECP2*
-Identification par séquençage de Sanger de trois variants chez une patiente avec un syndrome de Rett :
+Identification par séquençage de Sanger de deux variants chez une patiente avec un syndrome de Rett :
 * NM_004992.3:c.473C>T
 * NM_004992.3:c.603G>A
 * NM_004992.3:c.695G>C
@@ -19,7 +19,7 @@ Identification par séquençage de Sanger de trois variants chez une patiente av
 8. Quelle est la signification des différentes parties de cette notation ?
 9. De quel type de variants s'agit-il : faux sens, non-sens, synonyme, variant avec décalage du cadre de lecture, variant d’épissage ?
 
-10. Les trois variants sont présents dans la base de donnée Rettbase. Le(s)quel(s) des trois explique(nt) le syndrome de Rett du patient ? Justifiez. *Recherche par "nucleotide change" dans Rettbase*
+10. Les deux variants sont présents dans la base de donnée Rettbase. Le(s)quel(s) des deux explique(nt) le syndrome de Rett du patient ? Justifiez. *Recherche par "nucleotide change" dans Rettbase*
 
 11. Visualisez ce variant dans UCSC. Copiez l’URL de cette visualisation dans le fichier de réponse. *Mutalyzer Name Checker*
 12. Le gène est-il sur le brin sens ou anti-sens ? *UCSC*
@@ -28,11 +28,11 @@ Identification par séquençage de Sanger de trois variants chez une patiente av
 
 15. Quelle est la notation génomique de ce variant au format HGVS (en utilisant GRCh37) ? *Mutalyzer Position Converter*
 16. Quelle est la signification des différentes parties de cette notation ?
-17. Ces trois variants sont-ils dans la base de donnée GnomAD ?
-17. Si oui, quelle est leur fréquence dans la population générale d'après les données de GnomAD ?
+17. Ces deux variants sont-ils dans la base de donnée GnomAD ?
+18. Si oui, quelle est leur fréquence dans la population générale d'après les données de GnomAD ?
 
 ## Exercice 2 *CDKL5*
-Identification par séquençage de Sanger de trois variants chez une patiente avec un syndrome de Rett :
+Identification par séquençage de Sanger de deux variants chez une patiente avec un syndrome de Rett :
 * NM_003159.2:c.194G>A
 * NM_003159.2:c.215T>A
 * NM_003159.2:c.1278A>C
@@ -52,7 +52,7 @@ Identification par séquençage de Sanger de trois variants chez une patiente av
 8. Quelle est la signification des différentes parties de cette notation ?
 9. De quel type de variants s'agit-il : faux sens, non-sens, synonyme, variant avec décalage du cadre de lecture, variant d’épissage ?
 
-10. Les trois variants sont présents dans la base de donnée Rettbase. Le(s)quel(s) des trois explique(nt) le syndrome de Rett du patient ? Justifiez. *Recherche dans Rettbase*
+10. Les deux variants sont présents dans la base de donnée Rettbase. Le(s)quel(s) des deux explique(nt) le syndrome de Rett du patient ? Justifiez. *Recherche dans Rettbase*
 
 11. Visualisez ce variant dans UCSC. Copiez l’URL de cette visualisation dans le fichier de réponse. *Mutalyzer Name Checker*
 12. Le gène est-il sur le brin sens ou anti-sens ? *UCSC*
@@ -61,11 +61,11 @@ Identification par séquençage de Sanger de trois variants chez une patiente av
 
 15. Quelle est la notation génomique de ce variant au format HGVS (en utilisant GRCh37) ? *Mutalyzer Position Converter*
 16. Quelle est la signification des différentes parties de cette notation ?
-17. Ces trois variants sont-ils dans la base de donnée GnomAD ?
-17. Si oui, quelle est leur fréquence dans la population générale d'après les données de GnomAD ?
+17. Ces deux variants sont-ils dans la base de donnée GnomAD ?
+18. Si oui, quelle est leur fréquence dans la population générale d'après les données de GnomAD ?
 
 ## Exercice 3 *FOXG1*
-Identification par séquençage de Sanger de trois variants chez une patiente avec un syndrome de Rett :
+Identification par séquençage de Sanger de deux variants chez une patiente avec un syndrome de Rett :
 * NM_005249.4:c.730C>T
 * NM_005249.4:c.1200C>A
 * NM_005249.4:c.159_161dupCCA
@@ -82,7 +82,7 @@ Identification par séquençage de Sanger de trois variants chez une patiente av
 8. Quelle est la signification des différentes parties de cette notation ?
 9. De quel type de variants s'agit-il : faux sens, non-sens, synonyme, variant avec décalage du cadre de lecture, variant d’épissage ?
 
-10. Les trois variants sont présents dans la base de donnée Rettbase. Le(s)quel(s) des trois explique(nt) le syndrome de Rett du patient ? Justifiez. *Recherche dans Rettbase*
+10. Les deux variants sont présents dans la base de donnée Rettbase. Le(s)quel(s) des deux explique(nt) le syndrome de Rett du patient ? Justifiez. *Recherche dans Rettbase*
 
 11. Visualisez ce variant dans UCSC. Copiez l’URL de cette visualisation dans le fichier de réponse. *Mutalyzer Name Checker*
 12. Le gène est-il sur le brin sens ou anti-sens ? *UCSC*
@@ -90,5 +90,5 @@ Identification par séquençage de Sanger de trois variants chez une patiente av
 
 15. Quelle est la notation génomique de ce variant au format HGVS (en utilisant GRCh37) ? *Mutalyzer Position Converter*
 16. Quelle est la signification des différentes parties de cette notation ?
-17. Ces trois variants sont-ils dans la base de donnée GnomAD ?
-17. Si oui, quelle est leur fréquence dans la population générale d'après les données de GnomAD ?
+17. Ces deux variants sont-ils dans la base de donnée GnomAD ?
+18. Si oui, quelle est leur fréquence dans la population générale d'après les données de GnomAD ?
