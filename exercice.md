@@ -26,10 +26,10 @@ Identification par séquençage de Sanger de deux variants chez une patiente ave
 13. Combien d’exons le transcrit NM_004992.3 comporte-t-il ? *UCSC*
 14. Dans quel exon ce variant se trouve-t-il ? *UCSC*
 
-15. Quelle est la notation génomique de ce variant au format HGVS (en utilisant GRCh37) ? *Mutalyzer Position Converter*
-16. Quelle est la signification des différentes parties de cette notation ?
-17. Ces deux variants sont-ils dans la base de donnée GnomAD ?
-18. Si oui, quelle est leur fréquence dans la population générale d'après les données de GnomAD ?
+11. Quelle est la notation génomique de ce variant au format HGVS (en utilisant GRCh37) ? *Mutalyzer Position Converter*
+12. Quelle est la signification des différentes parties de cette notation ?
+13. Ces deux variants sont-ils dans la base de donnée GnomAD ?
+14. Si oui, quelle est leur fréquence dans la population générale d'après les données de GnomAD ?
 
 ## Exercice 2 *CDKL5*
 Identification par séquençage de Sanger de deux variants chez une patiente avec un syndrome de Rett :
@@ -59,10 +59,10 @@ Identification par séquençage de Sanger de deux variants chez une patiente ave
 13. Combien d’exons le transcrit NM_003159.2 comporte-t-il ? *UCSC*
 14. Dans quel exon ce variant se trouve-t-il ? *UCSC*
 
-15. Quelle est la notation génomique de ce variant au format HGVS (en utilisant GRCh37) ? *Mutalyzer Position Converter*
-16. Quelle est la signification des différentes parties de cette notation ?
-17. Ces deux variants sont-ils dans la base de donnée GnomAD ?
-18. Si oui, quelle est leur fréquence dans la population générale d'après les données de GnomAD ?
+11. Quelle est la notation génomique de ce variant au format HGVS (en utilisant GRCh37) ? *Mutalyzer Position Converter*
+12. Quelle est la signification des différentes parties de cette notation ?
+13. Ces deux variants sont-ils dans la base de donnée GnomAD ?
+14. Si oui, quelle est leur fréquence dans la population générale d'après les données de GnomAD ?
 
 ## Exercice 3 *FOXG1*
 Identification par séquençage de Sanger de deux variants chez une patiente avec un syndrome de Rett :
@@ -87,8 +87,9 @@ Identification par séquençage de Sanger de deux variants chez une patiente ave
 11. Visualisez ce variant dans UCSC. Copiez l’URL de cette visualisation dans le fichier de réponse. *Mutalyzer Name Checker*
 12. Le gène est-il sur le brin sens ou anti-sens ? *UCSC*
 13. Combien d’exons le transcrit NM_005249.4 comporte-t-il ? *UCSC*
+14. Dans quel exon ce variant se trouve-t-il ? *UCSC*
 
-15. Quelle est la notation génomique de ce variant au format HGVS (en utilisant GRCh37) ? *Mutalyzer Position Converter*
-16. Quelle est la signification des différentes parties de cette notation ?
-17. Ces deux variants sont-ils dans la base de donnée GnomAD ?
-18. Si oui, quelle est leur fréquence dans la population générale d'après les données de GnomAD ?
+11. Quelle est la notation génomique de ce variant au format HGVS (en utilisant GRCh37) ? *Mutalyzer Position Converter*
+12. Quelle est la signification des différentes parties de cette notation ?
+13. Ces deux variants sont-ils dans la base de donnée GnomAD ?
+14. Si oui, quelle est leur fréquence dans la population générale d'après les données de GnomAD ?
