@@ -1,4 +1,4 @@
-# UE génétique médicale 2017-04-05
+# UE génétique médicale 2018-05-17
 * Prénom1 Nom1 
 * Prénom2 Nom2
 ## Exercice 1
